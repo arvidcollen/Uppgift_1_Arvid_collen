@@ -13,6 +13,7 @@ h2 {
 }
 
 img {
+    border-style: dashed;
     border-radius: 10px;
     border-width: 8px;
     border-color: red;
